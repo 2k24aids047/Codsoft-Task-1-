@@ -26,8 +26,6 @@ Features
   * `random` (for random responses)
   * `datetime` (for time and date)
 
----
-
 How It Works
 
 1. The user enters a message.
@@ -36,7 +34,7 @@ How It Works
 4. If a rule matches, it gives the correct response.
 5. If no rule matches, it gives a default reply.
 6. The chat continues until the user exits.
-7. 
+
  How to Run the Program
  
 1. Install Python on your system.
@@ -73,6 +71,3 @@ Task1/
 * Pattern matching using regular expressions
 * Handling user input and output
 * Simple error handling in Python
-
-
-Just tell 😊
